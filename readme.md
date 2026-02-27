@@ -55,22 +55,6 @@ const hasindu = {
 
 ---
 
-## 🤖 AI Tools I Use Daily
-
-<div align="center">
-
-| 🤖 Tool | ⚡ What I Use It For |
-|---------|---------------------|
-| 🧠 **Claude (Anthropic)** | Code review, architecture planning, writing |
-| 📝 **GitHub Copilot / Codex** | AI pair programming & autocomplete |
-| 🌌 **Antigravity** | Creative AI-powered workflows |
-| 🔍 **Perplexity AI** | Deep research & instant lookups |
-| 🎨 **Midjourney** | UI/UX design inspiration & assets |
-
-</div>
-
----
-
 ## 🛸 Tech Universe
 
 <div align="center">
@@ -111,14 +95,6 @@ const hasindu = {
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iron-voldy&layout=donut&theme=midnight-purple&hide_border=true&langs_count=8" />
 <img width="57%" src="https://github-profile-trophy.vercel.app?username=iron-voldy&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=5&margin-h=5" />
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iron-voldy&bg_color=0d1117&color=A78BFA&line=7C3AED&point=FF6B9D&area=true&hide_border=true&custom_title=⚡+Contribution+Activity" />
 </div>
 
 ---
