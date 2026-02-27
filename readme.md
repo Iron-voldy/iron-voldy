@@ -44,7 +44,7 @@ const hasindu = {
 - 🌱 Deep diving into **DevOps & Cloud Architecture**
 - 💬 Ask me about **Java · Python · PHP · Node.js · React**
 - 📫 Reach me at **hasindut1@gmail.com**
-- 📄 View my resume → **[My Experiences](http://supun.traditionalme.life/#resume)**
+- 📄 View my portfolio → **[My Experiences](https://hasindu-wanninayake.vercel.app/)**
 - ⚡ Fun fact: **I genuinely believe I'm hilarious**
 
 <br clear="right"/>
@@ -101,7 +101,7 @@ const hasindu = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=A78BFA&line=7C3AED&point=FF6B9D&area=true&hide_border=true&custom_title=⚡+Contribution+Activity" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Iron-voldy&bg_color=0d1117&color=A78BFA&line=7C3AED&point=FF6B9D&area=true&hide_border=true&custom_title=⚡+Contribution+Activity" />
 </div>
 
 ---
@@ -111,9 +111,9 @@ const hasindu = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iron-voldy/Iron-voldy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iron-voldy/Iron-voldy/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Iron-voldy/Iron-voldy/output/github-snake.svg" />
   </picture>
 </div>
 
