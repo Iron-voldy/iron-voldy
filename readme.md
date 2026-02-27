@@ -87,12 +87,12 @@ const hasindu = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iron-voldy&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡+GitHub+Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=iron-voldy&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iron-voldy&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡+GitHub+Stats&rank_icon=github&card_width=400&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=iron-voldy&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iron-voldy&layout=donut&theme=midnight-purple&hide_border=true&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iron-voldy&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&cache_seconds=1800" />
 <img width="57%" src="https://github-profile-trophy.vercel.app?username=iron-voldy&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=5&margin-h=5" />
 
 </div>
