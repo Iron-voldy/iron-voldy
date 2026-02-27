@@ -5,36 +5,40 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=⚡+Building+the+future%2C+one+commit+at+a+time;🚀+Full+Stack+Developer+%7C+Open+to+Work;🛸+Turning+coffee+into+clean+code;🔥+TypeScript+%7C+React+%7C+Node+%7C+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=⚡+Building+the+future%2C+one+commit+at+a+time;🚀+Full+Stack+Developer+%7C+Open+to+Work;🤖+Powered+by+Coffee+%2B+AI+Tools;🔥+Java+%7C+Python+%7C+React+%7C+Node.js;🛸+From+Sri+Lanka+to+the+World+🌍" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=iron-voldy&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blueviolet&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/iron-voldy?style=for-the-badge&color=blueviolet&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
 
 </div>
 
 ---
 
-<!-- About Me Section -->
+<!-- About Me -->
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### 🧬 About Me
+### 🧬 `whoami`
 
 ```typescript
 const hasindu = {
-  name:       "Hasindu Theekshana",
-  location:   "Sri Lanka 🇱🇰",
-  role:       "Full Stack Developer",
-  status:     "Open to Work 🟢",
-  currently:  ["Building cool stuff", "Learning DevOps"],
-  email:      "hasindut1@gmail.com",
-  portfolio:  "http://supun.traditionalme.life",
-  funFact:    "I think I'm funny 😅",
-  interests:  ["Clean Code", "System Design", "Coffee ☕"],
+  name:        "Hasindu Theekshana",
+  alias:       "iron-voldy 🧙",
+  location:    "Sri Lanka 🇱🇰",
+  role:        "Full Stack Developer",
+  company:     "SysoftGroups",
+  status:      "Open to Work 🟢",
+  learning:    ["DevOps", "Cloud Architecture", "Rust"],
+  askMeAbout:  ["Java", "Python", "PHP", "Node.js", "React"],
+  email:       "hasindut1@gmail.com",
+  portfolio:   "http://supun.traditionalme.life",
+  funFact:     "I think I'm funny... my compiler disagrees 🤣",
+  aiPowered:   true, // Claude + Codex + Antigravity + more ✨
 };
 ```
 
@@ -43,15 +47,30 @@ const hasindu = {
 - 🔭 Currently working at **SysoftGroups**
 - 🌱 Deep diving into **DevOps & Cloud Architecture**
 - 💬 Ask me about **Java · Python · PHP · Node.js · React**
-- 📫 Reach me at **hasindut1@gmail.com**
-- 📄 View my portfolio → **[My Experiences](https://hasindu-wanninayake.vercel.app/)**
-- ⚡ Fun fact: **I genuinely believe I'm hilarious**
+- 📫 Reach me → **hasindut1@gmail.com**
+- 📄 My resume → **[View Experiences](http://supun.traditionalme.life/#resume)**
+- ⚡ Fun fact: **I think I'm funny (unverified claim)**
 
 <br clear="right"/>
 
 ---
 
-<!-- Tech Stack Section -->
+## 🤖 AI Tools I Use Daily
+
+<div align="center">
+
+| 🤖 Tool | ⚡ What I Use It For |
+|---------|---------------------|
+| 🧠 **Claude (Anthropic)** | Code review, architecture planning, writing |
+| 📝 **GitHub Copilot / Codex** | AI pair programming & autocomplete |
+| 🌌 **Antigravity** | Creative AI-powered workflows |
+| 🔍 **Perplexity AI** | Deep research & instant lookups |
+| 🎨 **Midjourney** | UI/UX design inspiration & assets |
+
+</div>
+
+---
+
 ## 🛸 Tech Universe
 
 <div align="center">
@@ -71,94 +90,88 @@ const hasindu = {
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,aws,docker,kubernetes,nginx,linux&theme=dark" />
 </p>
 
-### 🔧 Tools & DevOps
+### 🔧 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,grafana,postman,vscode,idea,bash,terraform&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,postman,vscode,idea,bash,grafana,terraform&theme=dark" />
 </p>
 
 </div>
 
 ---
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡+GitHub+Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&stroke=A78BFA&ring=A78BFA&fire=FF6B9D&currStreakLabel=A78BFA" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iron-voldy&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡+GitHub+Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=iron-voldy&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=midnight-purple&hide_border=true&langs_count=8" />
-<img width="58%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=5" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iron-voldy&layout=donut&theme=midnight-purple&hide_border=true&langs_count=8" />
+<img width="57%" src="https://github-profile-trophy.vercel.app?username=iron-voldy&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=5&margin-h=5" />
 
 </div>
 
 ---
 
-<!-- Activity Graph -->
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Iron-voldy&bg_color=0d1117&color=A78BFA&line=7C3AED&point=FF6B9D&area=true&hide_border=true&custom_title=⚡+Contribution+Activity" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iron-voldy&bg_color=0d1117&color=A78BFA&line=7C3AED&point=FF6B9D&area=true&hide_border=true&custom_title=⚡+Contribution+Activity" />
 </div>
 
 ---
 
-<!-- Snake Animation -->
-## 🐍 Eating My Contributions
+## 👾 PAC-MAN Eating My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iron-voldy/iron-voldy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iron-voldy/iron-voldy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iron-voldy/iron-voldy/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🎵 Currently Vibing On
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iron-voldy/Iron-voldy/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iron-voldy/Iron-voldy/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Iron-voldy/Iron-voldy/output/github-snake.svg" />
-  </picture>
+
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white&label=NOW+PLAYING)](https://music.youtube.com)
+
+> 🎧 *Coding mode: ON — headphones in, world out* 🔥
+
 </div>
 
 ---
 
-<!-- Connect Section -->
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iron_voldy)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ironvoldy)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/YOUR_ID)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](http://supun.traditionalme.life)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_DEVTO)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasindut1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](http://supun.traditionalme.life)
 
 </div>
 
 ---
 
-<!-- Spotify Now Playing (optional - requires setup) -->
-## 🎵 Now Playing
+## 💭 Today's Dev Quote
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=1&unique=true" alt="Spotify recently played" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 ---
 
-<!-- Random Dev Quote -->
-## 💭 Dev Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
-</div>
-
----
-
-<!-- Footer Wave -->
 <div align="center">
 
-### 💜 Thanks for visiting! Drop a ⭐ if you like what you see.
+### 💜 Thanks for stopping by! Drop a ⭐ if you vibe with my work!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
