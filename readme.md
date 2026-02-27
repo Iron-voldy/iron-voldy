@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://raw.githubusercontent.com/Iron-voldy/iron-voldy/refs/heads/main/me_me.png" style="width:200px;" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Iron-voldy/iron-voldy/refs/heads/main/me_me.png" style="width:300px;" alt="Typing SVG" />
 </a>
 
 <br/>
