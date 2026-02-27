@@ -109,17 +109,7 @@ const hasindu = {
 
 ---
 
-## 🎮 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=iron-voldy&theme=midnight-purple&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🎵 Currently Vibing On
+##  Currently Vibing On
 
 <div align="center">
 
