@@ -21,7 +21,9 @@
 ---
 
 <!-- About Me -->
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<a href="https://github.com/iron-voldy">
+  <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
+</a>
 
 ### 🧬 `whoami`
 
@@ -109,7 +111,7 @@ const hasindu = {
 
 ---
 
-##  Currently Vibing On
+## 🎵 Currently Vibing On
 
 <div align="center">
 
