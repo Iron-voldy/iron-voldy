@@ -99,6 +99,16 @@ const hasindu = {
 
 ---
 
+## 👾 PAC-MAN Eating My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="dist/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="dist/pacman-contribution-graph-dark.svg" width="100%">
+</picture>
+
+---
+
 ## 🎮 Contribution Activity
 
 <div align="center">
@@ -106,16 +116,6 @@ const hasindu = {
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=iron-voldy&theme=midnight-purple&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
-
-<!-- PAC-MAN will show once GitHub Actions billing is resolved and the workflow runs -->
-<!-- To enable: Go to GitHub Actions tab → Run "Generate Pacman Animation" workflow manually -->
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iron-voldy/iron-voldy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iron-voldy/iron-voldy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iron-voldy/iron-voldy/output/pacman-contribution-graph.svg">
-</picture>
--->
 
 ---
 
